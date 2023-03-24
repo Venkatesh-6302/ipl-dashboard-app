@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.rcb {
+  background-color: #a4261d;
+}
+.kkr {
+  background-color: #5755a7;
+}
+.csk {
+  background-color: #f7db00;
+}
+.rr {
+  background-color: #da237b;
+}
+.mi {
+  background-color: #13418b;
+}
+.srh {
+  background-color: #f26d22;
+}
+.dc {
+  background-color: #4f5db0;
+}
+.responsive-container {
+  width: 90%;
+}
+.banner-logo {
+  width: 100%;
+}
+.teams-route-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 60px;
+}
+.latest-match-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.match-list-container {
+  list-style: none;
+  padding-left: 0px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  align-items: center;
+}
